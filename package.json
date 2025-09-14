@@ -1,0 +1,27 @@
+{
+  "name": "amath-solver",
+  "version": "2.0.0",
+  "description": "Amath Solver - Calculator, Sequence Generator & Word Problem Solver with Visualizations",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "mathjs": "^12.4.1",
+    "axios": "^1.5.0",
+    "recharts": "^2.8.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.0",
+    "vite": "^4.4.9",
+    "tailwindcss": "^3.3.3",
+    "postcss": "^8.4.30",
+    "autoprefixer": "^10.4.15"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
